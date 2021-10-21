@@ -1,4 +1,4 @@
-const maxChar = require("index")
+const maxChar = require("./index")
 
 test("function exists", () => {
     expect(typeof maxChar).toEqual("function");
