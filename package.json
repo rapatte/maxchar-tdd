@@ -1,0 +1,19 @@
+{
+  "name": "maxchar",
+  "version": "1.0.0",
+  "description": "Algo qui renvoie le caractère le plus utilisé dans une chaîne de caractère",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapatte/MaxChar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rapatte/MaxChar/issues"
+  },
+  "homepage": "https://github.com/rapatte/MaxChar#readme"
+}
